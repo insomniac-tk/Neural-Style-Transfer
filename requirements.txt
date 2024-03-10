@@ -1,0 +1,6 @@
+tensorflow
+notebook
+matplotlib
+numpy
+pillow
+tensorflow_hub
